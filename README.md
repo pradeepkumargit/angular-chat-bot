@@ -1,5 +1,8 @@
-# Chatbot
-
+# Anguar Chatbot
+I have build a Chatbot with Angular 8 and DialogFlow
+<p align="center">
+  <img src="src/assets/chatbot.JPG" width="350" title="hover text">
+</p>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
 
 ## Development server
